@@ -1,0 +1,1 @@
+const lushitrapBaseUrl = 'https://lushitrap.com/c_home/load_song.html';

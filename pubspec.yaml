@@ -1,0 +1,33 @@
+name: lushitrap_flutter_client
+description: A Lushitrap client app in Flutter.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  rxdart: any
+  intl: any
+  url_launcher: any
+  path_provider: any
+  shared_preferences: any
+  rx_command: any
+  rx_widgets: any
+  get_it: any
+  html: any
+  http: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/1x1_transparent.png
