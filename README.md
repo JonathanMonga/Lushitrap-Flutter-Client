@@ -2,7 +2,7 @@
 
 A Lushitrap client app in Flutter.
 
-<p align="center"><img align="center" src="img/9d4bb757d30d6e75207896842f7cd884--congo-kinshasa-vector-vector.jpg" height="400em" />
+<p align="center"><img align="center" src="img/Screenshot_2019-09-22-15-39-01.png" height="400em" />
 </p>
 
 ## Getting Started
