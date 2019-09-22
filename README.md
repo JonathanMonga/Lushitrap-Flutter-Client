@@ -1,6 +1,4 @@
-# lushitrap_flutter_client
-
-A Lushitrap client app in Flutter.
+<p align="center">A Lushitrap client app in Flutter.</p>
 
 <p align="center"><img align="center" src="img/Screenshot_2019-09-22-15-39-01.png" height="400em" />
 </p>
